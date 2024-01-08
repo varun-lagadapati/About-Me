@@ -1,4 +1,4 @@
-# Hi, everyone! ![Wavy Hand](https://en.wikipedia.org/wiki/Waving)
+# Hi, everyone!
 
 My name is Varun Lagadapati and I am majoring in CS at University of Maryland, College Park. Below is some info about me!
 
