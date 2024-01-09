@@ -1,6 +1,6 @@
 # Hi, everyone! ![Wavy Hand](https://github.com/varun-lagadapati/About-Me/assets/123317278/52b6098d-4575-4478-a93c-b30da0da20f1 width="100px" height="100px")
 
-<img src="https://github.com/varun-lagadapati/About-Me/raw/main/assets/123317278/52b6098d-4575-4478-a93c-b30da0da20f1" width="100" height="100">
+<img src="https://github.com/varun-lagadapati/About-Me/assets/123317278/52b6098d-4575-4478-a93c-b30da0da20f1" width="100" height="100">
 
 My name is Varun Lagadapati and I am majoring in CS at University of Maryland, College Park. Below is some info about me!
 
