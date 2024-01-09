@@ -12,7 +12,8 @@ My name is Varun Lagadapati and I am majoring in CS at University of Maryland, C
 
 <img src="https://github.com/varun-lagadapati/About-Me/assets/123317278/3abd9608-9d36-49d7-9adf-6a7efa2751c4" width="100" height="100">
 
-- SQL
+<img src="https://github.com/varun-lagadapati/About-Me/assets/123317278/e91c8bdd-bd46-46a0-9664-1f644665a304" width="100" height="100">
+
 - AWS
 - SharePoint
 
