@@ -4,7 +4,7 @@ My name is Varun Lagadapati and I am majoring in CS at University of Maryland, C
 
 ### Key Skills and Programming Languages:
 
-<img src="https://github.com/varun-lagadapati/About-Me/assets/123317278/1bd331d3-2513-484e-bc6a-52dcf0c82a9a" width="150" height="100">
+<img src="https://github.com/varun-lagadapati/About-Me/assets/123317278/1bd331d3-2513-484e-bc6a-52dcf0c82a9a" width="100" height="100">
 
 <img src="https://github.com/varun-lagadapati/About-Me/assets/123317278/ff36cc2c-df82-41f2-9681-4c2588cb0c61" width="100" height="100"> 
 
