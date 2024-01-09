@@ -4,6 +4,11 @@ My name is Varun Lagadapati and I am majoring in CS at University of Maryland, C
 
 Interests:
 
-Data Science, Machine Learning, Artificial Intelligence, Computer Vision, and Deep Learning
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Computer Vision
+- Deep Learning
+- Natural Language Processing
 
-Feel free to reach out to me through email vlagadapati7@gmail.com
+Feel free to reach out via email vlagadapati7@gmail.com
