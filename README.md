@@ -2,9 +2,19 @@
 
 My name is Varun Lagadapati and I am majoring in CS at University of Maryland, College Park.
 
+Key Skills and Programming Languages:
+
+- Java
+- Python
+- C
+- Android Studio
+- SQL
+- AWS
+- SharePoint
+
 Interests:
 
-- Data Science
+- Data Science 
 - Machine Learning
 - Artificial Intelligence
 - Computer Vision
