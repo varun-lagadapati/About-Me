@@ -8,7 +8,8 @@ My name is Varun Lagadapati and I am majoring in CS at University of Maryland, C
 
 <img src="https://github.com/varun-lagadapati/About-Me/assets/123317278/ff36cc2c-df82-41f2-9681-4c2588cb0c61" width="100" height="100"> 
 
-- C
+<img src="https://github.com/varun-lagadapati/About-Me/assets/123317278/9b0d0055-a2e3-4e59-b8b7-ddfbfebf83c1" width="100" height="100">
+
 - Android Studio
 - SQL
 - AWS
