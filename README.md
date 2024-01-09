@@ -10,7 +10,8 @@ My name is Varun Lagadapati and I am majoring in CS at University of Maryland, C
 
 <img src="https://github.com/varun-lagadapati/About-Me/assets/123317278/9b0d0055-a2e3-4e59-b8b7-ddfbfebf83c1" width="100" height="100">
 
-- Android Studio
+<img src="https://github.com/varun-lagadapati/About-Me/assets/123317278/3abd9608-9d36-49d7-9adf-6a7efa2751c4" width="100" height="100">
+
 - SQL
 - AWS
 - SharePoint
