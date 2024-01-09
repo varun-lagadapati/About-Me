@@ -4,7 +4,7 @@ My name is Varun Lagadapati and I am majoring in CS at University of Maryland, C
 
 ### Key Skills and Programming Languages:
 
-- Java
+- Java 
 - Python
 - C
 - Android Studio
