@@ -14,8 +14,6 @@ My name is Varun Lagadapati and I am majoring in CS at University of Maryland, C
 
 <img src="https://github.com/varun-lagadapati/About-Me/assets/123317278/e91c8bdd-bd46-46a0-9664-1f644665a304" width="100" height="100">
 
-<img src="https://github.com/varun-lagadapati/About-Me/assets/123317278/958a7f21-1ad6-4206-8724-fc94fc4f01bf" width="250" height="250">
-
 - SharePoint
 
 ### Interests:
