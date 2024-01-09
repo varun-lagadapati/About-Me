@@ -4,8 +4,8 @@ My name is Varun Lagadapati and I am majoring in CS at University of Maryland, C
 
 Interests:
 
-- Data Science
-- Machine Learning
+- # Data Science
+- # Machine Learning
 - Artificial Intelligence
 - Computer Vision
 - Deep Learning
